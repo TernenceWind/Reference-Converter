@@ -17,5 +17,10 @@ When writing academic thesis, some journals define the format of references by t
 
 2020/05/18
 
-Thanks for my girlfriend who puts forward this idea.
+Thanks for ~~my girlfriend~~ who puts forward this idea.
 
+2023/12/25
+
+Merry Christmas
+
+Sorry, this project could not be completed due to lack of personal ability.
